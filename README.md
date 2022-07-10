@@ -1,5 +1,4 @@
-# PhpMysqlUygulama
-PHP ve MySQL ile Veritabanı Uygulaması
+# PHP ve MySQL ile Veritabanı Uygulaması
 
 Mehmet Selçuk Batal Youtube adresinde bulunan PHP ve MySQL ile Veritabanı Uygulaması konulu eğitim videosunun (https://youtu.be/rfKvUQxuzRI) dosyalarını burada bulabilirsiniz.
 
